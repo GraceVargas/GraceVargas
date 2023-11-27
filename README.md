@@ -6,7 +6,7 @@
 
 <p><img align="right" width="40%" src="https://user-images.githubusercontent.com/98563485/229647443-a9702918-65a5-4eff-b190-e2e3acc08f24.gif" alt="grace_vargas" /></p>
 
-- 🔭 I’m currently working on ASP Classic, HTML, CSS, Javascript, SQL Server
+- 🔭 I’m currently working on ASP Classic, HTML, CSS, SQL Server, Javascript & Typescript
 - 🌱 I’m currently learning SQL Server 
 - ✈️ Check out [My Portfolio](https://gracevargas.github.io/portfolio/)
 - 😄 Pronouns: she / her
